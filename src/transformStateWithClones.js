@@ -6,7 +6,7 @@
  *
  * @return {Object[]}
  */
-function transformStateWithClones(state, actions) {
+function transformStateWithClones(state, action) {
   // write code here
 }
 
